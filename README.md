@@ -16,4 +16,5 @@
 - 随后可以用model_evaluation.ipynb进行模型评估，PR曲线，ROC曲线，混淆矩阵等。并获得《各类别准确率评估指标.csv》
 - 建议详细阅读predick.py和model_evaluation.ipynb学习其中的设计思路
 
-
+### 致谢及说明
+- 如果你想了解深度学习或只是ConvNeXt网络强烈建议观看b站up“霹雳吧啦Wz”的视频(【13.1 ConvNeXt网络讲解】 https://www.bilibili.com/video/BV1SS4y157fu/?share_source=copy_web&vd_source=63c41f55b275e7810655017c0e3e9863)
